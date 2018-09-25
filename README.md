@@ -35,7 +35,7 @@ Store the converted digital forms
 
 
 # Dataset
-MNIST Dataset has been used and the format has been modified according to the need.
+EMNIST Dataset has been used and the format has been modified according to the need.
 
 
 # Contributors
